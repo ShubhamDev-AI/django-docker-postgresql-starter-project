@@ -3,4 +3,4 @@
 Starter Project
 Go to terminal type : docker-compose up or docker-compose build
 
-Go to browser : http://<ip of Machine >:8000
+Go to browser : http://ip of Machine:8000
